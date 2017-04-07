@@ -1,0 +1,330 @@
+.header-primary {
+	background-color: black;
+	color: white;
+	padding: 20px;
+	border: 5px;
+	height: auto;
+}
+
+.header-primary-menu {
+	display: flex;
+	list-style: none;
+	padding-left: 0;
+	margin-left: auto;
+	margin-top: 0px;
+	align-items: center;
+	margin-bottom: 0px;
+}
+
+.header-primary-menu1 {
+	display: flex;
+	list-style: none;
+	padding-left: 0;
+	margin-left: auto;
+	margin-top: 0px;
+	align-items: center;
+	margin-bottom: 0px;
+	height: 60px;
+}
+
+.header-primary-menu-item {
+	margin-left: 10px;
+	margin-right: 30px;
+}
+
+.header-primary-menu-item-logo {
+	background-size: contain;
+	display: block;
+	height: 80px;
+	width: 180px;
+}
+
+.header-primary-menu-item-link {
+	text-decoration: none;
+	color: black;
+	font-family: verdana;
+	font-size: 12px;
+	padding-left: 20px;
+}
+
+.header-primary-menu-item-link1 {
+	text-decoration: none;
+	color: #D9272D;
+	font-family: verdana;
+	font-size: 12px;
+}
+
+.section {
+	width: 100%;
+	height: 80px;
+	background-color: white;
+	padding: 20px;
+}
+
+.mid {
+	width: 932px;
+	height: 60px;
+	background-color: #D9272D;
+	color: white;
+	align-items: center;
+	padding-top: 30px;
+	padding-left: 500px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.form {
+	width: 500px;
+	margin: 0 auto;
+}
+
+ul {
+	list-style: none;
+}
+
+.search {
+	/*padding: 4px 12px 4px 24px; */
+	margin: 0;
+	background: url("./images/search.png") no-repeat 6px 4px;
+}
+
+.header {
+	background-color: rgb(200, 200, 200);
+	color: black;
+	margin: 10px;
+	margin-top: 0px;
+}
+
+.margin {
+	margin-top: 0px;
+	width: 100%;
+}
+
+.quote {
+	width: 100px;
+	height: 18px;
+	background-color: #D9272D;
+	color: white;
+	align-content: center;
+}
+
+.searchbox {
+	width: 130px;
+	height: 18px;
+	background-color: white;
+	border: 1px solid black;
+}
+
+.account {
+	width: 150px;
+	height: 20px;
+	background-color: #D9272D;
+	align-items: center;
+	color: white;
+	padding: 5px;
+	padding-left: 60px;
+	padding-top: 20px;
+}
+
+.footer {
+	background: url("/Users/khushboo.goenka/Desktop/khushi/frontierlogobottom.png") no-repeat;
+	background-color: #57585B;
+	background-size: contain;
+	display: block;
+	height: 70px;
+	padding-left: 200px;
+	margin-left: 215px;
+	white-space: 20px;
+}
+
+.footer-end-main {
+	list-style: none;
+	padding-left: 0px;
+	margin-left: 0px;
+	margin-top: 0px;
+	display: flex;
+}
+
+.footer-end-ul {
+	list-style: none;
+}
+
+.footer-end-ul-h0 {
+	color: white;
+	list-style: none;
+	margin: 0px;
+}
+
+.footer-end-ul-h1 {
+	color: white;
+	list-style: none;
+	margin-left: 25px;
+}
+
+.footer-end-ul-h12 {
+	color: white;
+	list-style: none;
+	margin-left: 24px;
+}
+
+.footer-end-ul-link1 {
+	margin: 0px;
+	color: grey;
+	padding: 2px;
+	font-size: 14px;
+	padding-left: 4px;
+}
+
+.footer-end-ul-link {
+	margin: 0px;
+	margin-left: 30px;
+	color: grey;
+	padding: 2px;
+	font-size: 14px;
+}
+
+.footer-top {
+	background-color: #57585B;
+	color: white;
+	text-align: center;
+	padding: 8px;
+	letter-spacing: 1px;
+}
+
+.end {
+	color: grey;
+	display: flex;
+	padding-left: 0px;
+	list-style: none;
+}
+
+.end-right {
+	padding-left: 100px;
+}
+
+.footer-end {
+	list-style: none;
+	color: grey;
+	padding-top: 50px;
+	padding-left: 170px;
+	padding-right: 170px;
+	padding-bottom: 50;
+}
+
+.foter-end-1 {
+	list-style: none;
+	display: flex;
+	padding-left: 0px;
+}
+
+.footer-end-right1 {
+	padding: 0px;
+	font-size: 13px;
+}
+
+.footer-end-right-link {
+	padding: 0px;
+	margin-left: 600px;
+	float: right;
+}
+
+.footer-end-right {
+	padding: 0px;
+
+	/*padding-left: 20px;*/
+}
+
+.footer-top {
+	width: 100%;
+	background-color: #57585B;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-left: 0px;
+}
+
+.section-top {
+	background-color: red;
+	width: 100%;
+	margin-top: 20px;
+	height: 50px;
+	display: flex;
+	justify-content: center;
+	color: white;
+}
+
+.header-primary-menu-item-link-box {
+	text-decoration: none;
+	color: red;
+	font-family: verdana;
+	font-size: 20px;
+	background-color: red;
+	color: white;
+}
+
+.header-primary-menu2-item {
+	padding: 12px;
+}
+
+.header-primary-menu2-item-link {
+	text-decoration: none;
+	color: #353535;
+}
+
+.footer-primary-menu {
+	display: flex;
+	padding-left: 1071px;
+}
+
+.footer-primary-menu-item {
+	list-style: none;
+}
+
+.footer-end-1 {
+	display: flex;
+}
+
+.footer-end-1-item {
+	list-style: none;
+	font-size: 12px;
+	padding: 0px;
+}
+
+.footer-menu {
+	text-align-last: right;
+	background-color: #57585B;
+	color: white;
+	height: 250px;
+	margin-bottom: 0px;
+}
+
+.footer-item-social-item {
+	list-style-type: none;
+	display: flex;
+	justify-content: flex-end;
+	padding-right: 25px;
+}
+
+.footer-item-social-item-insta-logo {
+	background: url("insta.png") no-repeat;
+	display: block;
+	background-size: 100% 100%;
+	height: 45px;
+	width: 40px;
+}
+
+.footer-item-social-item-twitter-logo {
+	background: url("twitter.png") no-repeat;
+	display: block;
+	background-size: 100% 100%;
+	height: 40px;
+	width: 40px;
+}
+
+.footer-item-social-item-fb-logo {
+	background: url("fb.png") no-repeat;
+	display: block;
+	background-size: 100% 100%;
+	height: 40px;
+	width: 40px;
+}
